@@ -1,1 +1,1 @@
-# MYfirstRespitory
+# simple calculator using HTML, CSS, Javascript
